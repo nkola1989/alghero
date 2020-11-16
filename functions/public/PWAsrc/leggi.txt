@@ -1,0 +1,2 @@
+questa è la cartella dedicata al corretto funzionamento della PWA,
+ qualsiasi modifica va messa qui 

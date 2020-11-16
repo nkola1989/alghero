@@ -1,0 +1,4 @@
+qui vanno messe tutte le immagini dell'applicazione
+- sfondo
+- personaggi 
+- ect
